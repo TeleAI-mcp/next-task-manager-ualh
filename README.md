@@ -1,2 +1,3 @@
-# next-task-manager-ualh
+# Next Task Manager Ualh
+
 A task management tool for modern development workflows.
